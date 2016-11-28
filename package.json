@@ -1,0 +1,21 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Telegram bot to play good old TicTacToe game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ArthurMcCay/Warehouse-Doc-Checker.git"
+  },
+  "author": "Arthur McCay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "node-telegram-bot-api": "",
+    "winston": "^2.3.0"
+  }
+}
