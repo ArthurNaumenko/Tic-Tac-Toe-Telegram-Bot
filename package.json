@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ArthurMcCay/Warehouse-Doc-Checker.git"
+    "url": "git@github.com:ArthurMcCay/Tic-Tac-Toe-Telegram-Bot.git"
   },
   "author": "Arthur McCay",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
-    "node-telegram-bot-api": "",
+    "node-telegram-bot-api": "^0.23.3",
     "winston": "^2.3.0"
   }
 }
